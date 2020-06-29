@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://myanimelist.net/anime/1382/Yuusha-Ou_GaoGaiGar_Final",
+        "type": "OVA",
+        "eps": "8",
+        "members": "7,334",
+        "ystart": "2000",
+        "yend": "2003",
+        "score": "8.09",
+        "popularity_rank": "5166"
+    },
+    {
+        "url": "https://myanimelist.net/anime/29831/Tamayura__Sotsugyou_Shashin_Part_4_-_Ashita",
+        "type": "Movie",
+        "eps": "1",
+        "members": "7,140",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.09",
+        "popularity_rank": "5222"
+    },
+    {
+        "url": "https://myanimelist.net/anime/39592/Mobile_Suit_Gundam__The_Origin_-_Advent_of_the_Red_Comet",
+        "type": "TV",
+        "eps": "13",
+        "members": "7,611",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.07",
+        "popularity_rank": "5093"
+    }
+]

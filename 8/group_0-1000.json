@@ -1,0 +1,3282 @@
+[
+    {
+        "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+        "type": "TV",
+        "eps": "64",
+        "members": "1,825,514",
+        "ystart": "2009",
+        "yend": "2010",
+        "score": "9.23",
+        "popularity_rank": "4"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+        "type": "TV",
+        "eps": "24",
+        "members": "1,487,836",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "9.13",
+        "popularity_rank": "7"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+        "type": "TV",
+        "eps": "148",
+        "members": "1,246,114",
+        "ystart": "2011",
+        "yend": "2014",
+        "score": "9.12",
+        "popularity_rank": "17"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28977/Gintama\u00b0",
+        "type": "TV",
+        "eps": "51",
+        "members": "324,263",
+        "ystart": "2015",
+        "yend": "2016",
+        "score": "9.12",
+        "popularity_rank": "333"
+    },
+    {
+        "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
+        "type": "OVA",
+        "eps": "110",
+        "members": "194,069",
+        "ystart": "1988",
+        "yend": "1997",
+        "score": "9.11",
+        "popularity_rank": "620"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9969/Gintama",
+        "type": "TV",
+        "eps": "51",
+        "members": "307,867",
+        "ystart": "2011",
+        "yend": "2012",
+        "score": "9.09",
+        "popularity_rank": "351"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2",
+        "type": "TV",
+        "eps": "10",
+        "members": "636,258",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "9.07",
+        "popularity_rank": "105"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa",
+        "type": "Movie",
+        "eps": "1",
+        "members": "1,345,561",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "9.04",
+        "popularity_rank": "13"
+    },
+    {
+        "url": "https://myanimelist.net/anime/15417/Gintama__Enchousen",
+        "type": "TV",
+        "eps": "13",
+        "members": "185,743",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "9.04",
+        "popularity_rank": "655"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35180/3-gatsu_no_Lion_2nd_Season",
+        "type": "TV",
+        "eps": "22",
+        "members": "206,195",
+        "ystart": "2017",
+        "yend": "2018",
+        "score": "9.02",
+        "popularity_rank": "588"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28851/Koe_no_Katachi",
+        "type": "Movie",
+        "eps": "1",
+        "members": "1,021,642",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "9.01",
+        "popularity_rank": "40"
+    },
+    {
+        "url": "https://myanimelist.net/anime/918/Gintama",
+        "type": "TV",
+        "eps": "201",
+        "members": "637,722",
+        "ystart": "2006",
+        "yend": "2010",
+        "score": "8.98",
+        "popularity_rank": "104"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34096/Gintama",
+        "type": "TV",
+        "eps": "12",
+        "members": "161,185",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.98",
+        "popularity_rank": "764"
+    },
+    {
+        "url": "https://myanimelist.net/anime/15335/Gintama_Movie_2__Kanketsu-hen_-_Yorozuya_yo_Eien_Nare",
+        "type": "Movie",
+        "eps": "1",
+        "members": "147,700",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.98",
+        "popularity_rank": "838"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4181/Clannad__After_Story",
+        "type": "TV",
+        "eps": "24",
+        "members": "800,765",
+        "ystart": "2008",
+        "yend": "2009",
+        "score": "8.97",
+        "popularity_rank": "68"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season",
+        "type": "TV",
+        "eps": "7",
+        "members": "221,574",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.94",
+        "popularity_rank": "545"
+    },
+    {
+        "url": "https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen",
+        "type": "TV",
+        "eps": "12",
+        "members": "336,468",
+        "ystart": "2020",
+        "yend": "2020",
+        "score": "8.93",
+        "popularity_rank": "322"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2",
+        "type": "TV",
+        "eps": "25",
+        "members": "1,085,956",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.92",
+        "popularity_rank": "31"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32935/Haikyuu__Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou",
+        "type": "TV",
+        "eps": "10",
+        "members": "507,455",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.92",
+        "popularity_rank": "169"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II",
+        "type": "TV",
+        "eps": "13",
+        "members": "591,702",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.88",
+        "popularity_rank": "125"
+    },
+    {
+        "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+        "type": "Movie",
+        "eps": "1",
+        "members": "1,028,909",
+        "ystart": "2001",
+        "yend": "2001",
+        "score": "8.86",
+        "popularity_rank": "39"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31758/Kizumonogatari_III__Reiketsu-hen",
+        "type": "Movie",
+        "eps": "1",
+        "members": "250,914",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.82",
+        "popularity_rank": "468"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
+        "type": "TV",
+        "eps": "22",
+        "members": "1,146,702",
+        "ystart": "2014",
+        "yend": "2015",
+        "score": "8.80",
+        "popularity_rank": "24"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "615,826",
+        "ystart": "2015",
+        "yend": "2016",
+        "score": "8.80",
+        "popularity_rank": "115"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+        "type": "TV",
+        "eps": "26",
+        "members": "1,035,841",
+        "ystart": "1998",
+        "yend": "1999",
+        "score": "8.79",
+        "popularity_rank": "38"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34599/Made_in_Abyss",
+        "type": "TV",
+        "eps": "13",
+        "members": "688,463",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.79",
+        "popularity_rank": "94"
+    },
+    {
+        "url": "https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season",
+        "type": "TV",
+        "eps": "26",
+        "members": "437,226",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.78",
+        "popularity_rank": "220"
+    },
+    {
+        "url": "https://myanimelist.net/anime/24701/Mushishi_Zoku_Shou_2nd_Season",
+        "type": "TV",
+        "eps": "10",
+        "members": "172,996",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.78",
+        "popularity_rank": "713"
+    },
+    {
+        "url": "https://myanimelist.net/anime/263/Hajime_no_Ippo",
+        "type": "TV",
+        "eps": "75",
+        "members": "331,222",
+        "ystart": "2000",
+        "yend": "2002",
+        "score": "8.77",
+        "popularity_rank": "328"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
+        "type": "TV",
+        "eps": "26",
+        "members": "890,071",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.75",
+        "popularity_rank": "58"
+    },
+    {
+        "url": "https://myanimelist.net/anime/164/Mononoke_Hime",
+        "type": "Movie",
+        "eps": "1",
+        "members": "734,327",
+        "ystart": "1997",
+        "yend": "1997",
+        "score": "8.75",
+        "popularity_rank": "81"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37521/Vinland_Saga",
+        "type": "TV",
+        "eps": "24",
+        "members": "444,632",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.74",
+        "popularity_rank": "215"
+    },
+    {
+        "url": "https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen",
+        "type": "OVA",
+        "eps": "4",
+        "members": "210,605",
+        "ystart": "1999",
+        "yend": "1999",
+        "score": "8.74",
+        "popularity_rank": "572"
+    },
+    {
+        "url": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou",
+        "type": "TV",
+        "eps": "10",
+        "members": "201,034",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.74",
+        "popularity_rank": "601"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch",
+        "type": "TV",
+        "eps": "25",
+        "members": "1,348,350",
+        "ystart": "2006",
+        "yend": "2007",
+        "score": "8.73",
+        "popularity_rank": "12"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei",
+        "type": "Movie",
+        "eps": "1",
+        "members": "140,793",
+        "ystart": "2020",
+        "yend": "2020",
+        "score": "8.73",
+        "popularity_rank": "890"
+    },
+    {
+        "url": "https://myanimelist.net/anime/19/Monster",
+        "type": "TV",
+        "eps": "74",
+        "members": "507,592",
+        "ystart": "2004",
+        "yend": "2005",
+        "score": "8.72",
+        "popularity_rank": "168"
+    },
+    {
+        "url": "https://myanimelist.net/anime/457/Mushishi",
+        "type": "TV",
+        "eps": "26",
+        "members": "544,303",
+        "ystart": "2005",
+        "yend": "2006",
+        "score": "8.71",
+        "popularity_rank": "147"
+    },
+    {
+        "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
+        "type": "TV",
+        "eps": "43",
+        "members": "503,145",
+        "ystart": "1999",
+        "yend": "2000",
+        "score": "8.71",
+        "popularity_rank": "171"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+        "type": "TV",
+        "eps": "27",
+        "members": "1,065,394",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.69",
+        "popularity_rank": "33"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai",
+        "type": "Movie",
+        "eps": "1",
+        "members": "203,129",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.69",
+        "popularity_rank": "597"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger",
+        "type": "TV",
+        "eps": "26",
+        "members": "177,220",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.69",
+        "popularity_rank": "694"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi",
+        "type": "TV",
+        "eps": "13",
+        "members": "173,140",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.69",
+        "popularity_rank": "711"
+    },
+    {
+        "url": "https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro",
+        "type": "Movie",
+        "eps": "1",
+        "members": "692,035",
+        "ystart": "2004",
+        "yend": "2004",
+        "score": "8.68",
+        "popularity_rank": "92"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki",
+        "type": "Movie",
+        "eps": "1",
+        "members": "527,577",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.68",
+        "popularity_rank": "154"
+    },
+    {
+        "url": "https://myanimelist.net/anime/7311/Suzumiya_Haruhi_no_Shoushitsu",
+        "type": "Movie",
+        "eps": "1",
+        "members": "432,712",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.68",
+        "popularity_rank": "224"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland",
+        "type": "TV",
+        "eps": "12",
+        "members": "690,177",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.67",
+        "popularity_rank": "93"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
+        "type": "TV",
+        "eps": "39",
+        "members": "362,640",
+        "ystart": "2018",
+        "yend": "2019",
+        "score": "8.66",
+        "popularity_rank": "294"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
+        "type": "TV",
+        "eps": "12",
+        "members": "1,702,381",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.64",
+        "popularity_rank": "5"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1535/Death_Note",
+        "type": "TV",
+        "eps": "37",
+        "members": "2,094,980",
+        "ystart": "2006",
+        "yend": "2007",
+        "score": "8.63",
+        "popularity_rank": "1"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen",
+        "type": "Movie",
+        "eps": "1",
+        "members": "249,099",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.63",
+        "popularity_rank": "472"
+    },
+    {
+        "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation",
+        "type": "TV",
+        "eps": "11",
+        "members": "220,713",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.63",
+        "popularity_rank": "546"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly",
+        "type": "Movie",
+        "eps": "1",
+        "members": "142,486",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.63",
+        "popularity_rank": "873"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33352/Violet_Evergarden",
+        "type": "TV",
+        "eps": "13",
+        "members": "776,039",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.62",
+        "popularity_rank": "74"
+    },
+    {
+        "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+        "type": "TV",
+        "eps": "11",
+        "members": "263,038",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.62",
+        "popularity_rank": "432"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season",
+        "type": "TV",
+        "eps": "12",
+        "members": "696,219",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.61",
+        "popularity_rank": "90"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12365/Bakuman_3rd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "242,373",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.61",
+        "popularity_rank": "491"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu",
+        "type": "TV",
+        "eps": "13",
+        "members": "198,162",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.61",
+        "popularity_rank": "612"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San",
+        "type": "TV",
+        "eps": "13",
+        "members": "180,532",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.61",
+        "popularity_rank": "678"
+    },
+    {
+        "url": "https://myanimelist.net/anime/19647/Hajime_no_Ippo__Rising",
+        "type": "TV",
+        "eps": "25",
+        "members": "152,010",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.61",
+        "popularity_rank": "813"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai",
+        "type": "Movie",
+        "eps": "1",
+        "members": "263,417",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.60",
+        "popularity_rank": "430"
+    },
+    {
+        "url": "https://myanimelist.net/anime/20583/Haikyuu",
+        "type": "TV",
+        "eps": "25",
+        "members": "845,801",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.59",
+        "popularity_rank": "63"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho",
+        "type": "TV",
+        "eps": "13",
+        "members": "277,831",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.59",
+        "popularity_rank": "400"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38040/Kono_Subarashii_Sekai_ni_Shukufuku_wo__Kurenai_Densetsu",
+        "type": "Movie",
+        "eps": "1",
+        "members": "254,563",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.59",
+        "popularity_rank": "456"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou",
+        "type": "TV",
+        "eps": "13",
+        "members": "183,402",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.58",
+        "popularity_rank": "663"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4282/Kara_no_Kyoukai_5__Mujun_Rasen",
+        "type": "Movie",
+        "eps": "1",
+        "members": "173,063",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.58",
+        "popularity_rank": "712"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4565/Tengen_Toppa_Gurren_Lagann_Movie_2__Lagann-hen",
+        "type": "Movie",
+        "eps": "1",
+        "members": "152,752",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.58",
+        "popularity_rank": "803"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "688,380",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.57",
+        "popularity_rank": "95"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai",
+        "type": "TV",
+        "eps": "39",
+        "members": "453,814",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.55",
+        "popularity_rank": "204"
+    },
+    {
+        "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+        "type": "TV",
+        "eps": "26",
+        "members": "180,484",
+        "ystart": "2004",
+        "yend": "2005",
+        "score": "8.55",
+        "popularity_rank": "679"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin",
+        "type": "TV",
+        "eps": "26",
+        "members": "268,264",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.54",
+        "popularity_rank": "419"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34612/Saiki_Kusuo_no_\u03a8-nan_2",
+        "type": "TV",
+        "eps": "24",
+        "members": "236,312",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.54",
+        "popularity_rank": "510"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38826/Tenki_no_Ko",
+        "type": "Movie",
+        "eps": "1",
+        "members": "271,615",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.53",
+        "popularity_rank": "415"
+    },
+    {
+        "url": "https://myanimelist.net/anime/170/Slam_Dunk",
+        "type": "TV",
+        "eps": "101",
+        "members": "168,073",
+        "ystart": "1993",
+        "yend": "1996",
+        "score": "8.53",
+        "popularity_rank": "735"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai",
+        "type": "TV",
+        "eps": "99",
+        "members": "133,247",
+        "ystart": "2012",
+        "yend": "2014",
+        "score": "8.53",
+        "popularity_rank": "948"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30484/Steins_Gate_0",
+        "type": "TV",
+        "eps": "23",
+        "members": "483,434",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.52",
+        "popularity_rank": "184"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_D\u00e9j\u00e0_vu",
+        "type": "Movie",
+        "eps": "1",
+        "members": "394,688",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.52",
+        "popularity_rank": "261"
+    },
+    {
+        "url": "https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_2nd_Season",
+        "type": "TV",
+        "eps": "24",
+        "members": "461,308",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.51",
+        "popularity_rank": "199"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+        "type": "Movie",
+        "eps": "1",
+        "members": "453,046",
+        "ystart": "1997",
+        "yend": "1997",
+        "score": "8.51",
+        "popularity_rank": "205"
+    },
+    {
+        "url": "https://myanimelist.net/anime/578/Hotaru_no_Haka",
+        "type": "Movie",
+        "eps": "1",
+        "members": "359,223",
+        "ystart": "1988",
+        "yend": "1988",
+        "score": "8.51",
+        "popularity_rank": "300"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
+        "type": "TV",
+        "eps": "12",
+        "members": "965,277",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.50",
+        "popularity_rank": "50"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+        "type": "TV",
+        "eps": "12",
+        "members": "784,789",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.50",
+        "popularity_rank": "70"
+    },
+    {
+        "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+        "type": "TV",
+        "eps": "26",
+        "members": "759,942",
+        "ystart": "2004",
+        "yend": "2005",
+        "score": "8.50",
+        "popularity_rank": "77"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "1,236,998",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.49",
+        "popularity_rank": "18"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10165/Nichijou",
+        "type": "TV",
+        "eps": "26",
+        "members": "552,694",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.49",
+        "popularity_rank": "143"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33255/Saiki_Kusuo_no_\u03a8-nan",
+        "type": "TV",
+        "eps": "120",
+        "members": "396,199",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.49",
+        "popularity_rank": "260"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru",
+        "type": "TV",
+        "eps": "23",
+        "members": "148,949",
+        "ystart": "2018",
+        "yend": "2019",
+        "score": "8.49",
+        "popularity_rank": "832"
+    },
+    {
+        "url": "https://myanimelist.net/anime/21/One_Piece",
+        "type": "TV",
+        "eps": "?",
+        "members": "1,072,611",
+        "ystart": "Oct",
+        "yend": "1999",
+        "score": "8.48",
+        "popularity_rank": "32"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk",
+        "type": "TV",
+        "eps": "25",
+        "members": "385,829",
+        "ystart": "1997",
+        "yend": "1998",
+        "score": "8.48",
+        "popularity_rank": "269"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38883/Haikyuu__To_the_Top",
+        "type": "TV",
+        "eps": "13",
+        "members": "256,917",
+        "ystart": "2020",
+        "yend": "2020",
+        "score": "8.48",
+        "popularity_rank": "448"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai",
+        "type": "TV",
+        "eps": "11",
+        "members": "953,522",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.47",
+        "popularity_rank": "53"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10162/Usagi_Drop",
+        "type": "TV",
+        "eps": "11",
+        "members": "353,444",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.46",
+        "popularity_rank": "309"
+    },
+    {
+        "url": "https://myanimelist.net/anime/877/Nana",
+        "type": "TV",
+        "eps": "47",
+        "members": "343,118",
+        "ystart": "2006",
+        "yend": "2007",
+        "score": "8.46",
+        "popularity_rank": "313"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou",
+        "type": "Movie",
+        "eps": "1",
+        "members": "179,300",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.46",
+        "popularity_rank": "686"
+    },
+    {
+        "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu",
+        "type": "TV",
+        "eps": "24",
+        "members": "1,016,449",
+        "ystart": "2014",
+        "yend": "2015",
+        "score": "8.45",
+        "popularity_rank": "43"
+    },
+    {
+        "url": "https://myanimelist.net/anime/392/Yuu\u2606Yuu\u2606Hakusho",
+        "type": "TV",
+        "eps": "112",
+        "members": "397,643",
+        "ystart": "1992",
+        "yend": "1995",
+        "score": "8.45",
+        "popularity_rank": "257"
+    },
+    {
+        "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+        "type": "TV",
+        "eps": "26",
+        "members": "304,029",
+        "ystart": "2002",
+        "yend": "2003",
+        "score": "8.45",
+        "popularity_rank": "352"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31181/Owarimonogatari",
+        "type": "TV",
+        "eps": "12",
+        "members": "299,929",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.45",
+        "popularity_rank": "361"
+    },
+    {
+        "url": "https://myanimelist.net/anime/14397/Chihayafuru_2",
+        "type": "TV",
+        "eps": "25",
+        "members": "162,449",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.45",
+        "popularity_rank": "759"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5205/Kara_no_Kyoukai_7__Satsujin_Kousatsu_Go",
+        "type": "Movie",
+        "eps": "1",
+        "members": "150,917",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.45",
+        "popularity_rank": "818"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+        "type": "TV",
+        "eps": "25",
+        "members": "1,983,581",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.44",
+        "popularity_rank": "2"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen",
+        "type": "TV",
+        "eps": "12",
+        "members": "602,364",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.44",
+        "popularity_rank": "119"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
+        "type": "TV",
+        "eps": "22",
+        "members": "362,625",
+        "ystart": "2016",
+        "yend": "2017",
+        "score": "8.44",
+        "popularity_rank": "295"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11981/Mahou_Shoujo_Madoka\u2605Magica_Movie_3__Hangyaku_no_Monogatari",
+        "type": "Movie",
+        "eps": "1",
+        "members": "257,091",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.44",
+        "popularity_rank": "446"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi",
+        "type": "TV",
+        "eps": "12",
+        "members": "1,087,139",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.43",
+        "popularity_rank": "30"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2251/Baccano",
+        "type": "TV",
+        "eps": "13",
+        "members": "625,128",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.43",
+        "popularity_rank": "109"
+    },
+    {
+        "url": "https://myanimelist.net/anime/777/Hellsing_Ultimate",
+        "type": "OVA",
+        "eps": "10",
+        "members": "589,303",
+        "ystart": "2006",
+        "yend": "2012",
+        "score": "8.43",
+        "popularity_rank": "127"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33674/No_Game_No_Life__Zero",
+        "type": "Movie",
+        "eps": "1",
+        "members": "492,998",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.43",
+        "popularity_rank": "180"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e",
+        "type": "Movie",
+        "eps": "1",
+        "members": "465,681",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.43",
+        "popularity_rank": "196"
+    },
+    {
+        "url": "https://myanimelist.net/anime/22789/Barakamon",
+        "type": "TV",
+        "eps": "12",
+        "members": "446,609",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.43",
+        "popularity_rank": "211"
+    },
+    {
+        "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+        "type": "TV",
+        "eps": "62",
+        "members": "338,785",
+        "ystart": "1999",
+        "yend": "2001",
+        "score": "8.43",
+        "popularity_rank": "318"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10030/Bakuman_2nd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "261,896",
+        "ystart": "2011",
+        "yend": "2012",
+        "score": "8.43",
+        "popularity_rank": "435"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35557/Houseki_no_Kuni_TV",
+        "type": "TV",
+        "eps": "12",
+        "members": "255,866",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.43",
+        "popularity_rank": "452"
+    },
+    {
+        "url": "https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausica\u00e4",
+        "type": "Movie",
+        "eps": "1",
+        "members": "245,722",
+        "ystart": "1984",
+        "yend": "1984",
+        "score": "8.43",
+        "popularity_rank": "482"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "986,716",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.42",
+        "popularity_rank": "45"
+    },
+    {
+        "url": "https://myanimelist.net/anime/437/Perfect_Blue",
+        "type": "Movie",
+        "eps": "1",
+        "members": "293,642",
+        "ystart": "1998",
+        "yend": "1998",
+        "score": "8.42",
+        "popularity_rank": "373"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2246/Mononoke",
+        "type": "TV",
+        "eps": "12",
+        "members": "178,823",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.42",
+        "popularity_rank": "688"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
+        "type": "TV",
+        "eps": "13",
+        "members": "618,940",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.41",
+        "popularity_rank": "114"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen",
+        "type": "Movie",
+        "eps": "1",
+        "members": "308,940",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.41",
+        "popularity_rank": "349"
+    },
+    {
+        "url": "https://myanimelist.net/anime/13601/Psycho-Pass",
+        "type": "TV",
+        "eps": "22",
+        "members": "1,052,413",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.40",
+        "popularity_rank": "36"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka\u2605Magica",
+        "type": "TV",
+        "eps": "12",
+        "members": "853,314",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.40",
+        "popularity_rank": "61"
+    },
+    {
+        "url": "https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "427,741",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.40",
+        "popularity_rank": "231"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37105/Grand_Blue",
+        "type": "TV",
+        "eps": "12",
+        "members": "301,641",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.40",
+        "popularity_rank": "356"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2",
+        "type": "TV",
+        "eps": "12",
+        "members": "1,154,356",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.39",
+        "popularity_rank": "23"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28171/Shokugeki_no_Souma",
+        "type": "TV",
+        "eps": "24",
+        "members": "954,314",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.39",
+        "popularity_rank": "52"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38691/Dr_Stone",
+        "type": "TV",
+        "eps": "24",
+        "members": "626,251",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.39",
+        "popularity_rank": "107"
+    },
+    {
+        "url": "https://myanimelist.net/anime/13125/Shinsekai_yori",
+        "type": "TV",
+        "eps": "25",
+        "members": "554,845",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.39",
+        "popularity_rank": "142"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II",
+        "type": "TV",
+        "eps": "12",
+        "members": "358,361",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.39",
+        "popularity_rank": "302"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+        "type": "Movie",
+        "eps": "1",
+        "members": "240,997",
+        "ystart": "2001",
+        "yend": "2001",
+        "score": "8.39",
+        "popularity_rank": "495"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11979/Mahou_Shoujo_Madoka\u2605Magica_Movie_2__Eien_no_Monogatari",
+        "type": "Movie",
+        "eps": "1",
+        "members": "147,525",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.39",
+        "popularity_rank": "839"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10087/Fate_Zero",
+        "type": "TV",
+        "eps": "13",
+        "members": "930,132",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.38",
+        "popularity_rank": "55"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6594/Katanagatari",
+        "type": "TV",
+        "eps": "12",
+        "members": "383,714",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.38",
+        "popularity_rank": "272"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25835/Shirobako",
+        "type": "TV",
+        "eps": "24",
+        "members": "310,799",
+        "ystart": "2014",
+        "yend": "2015",
+        "score": "8.38",
+        "popularity_rank": "348"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania",
+        "type": "Special",
+        "eps": "1",
+        "members": "301,667",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.38",
+        "popularity_rank": "355"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28805/Bakemono_no_Ko",
+        "type": "Movie",
+        "eps": "1",
+        "members": "265,009",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.38",
+        "popularity_rank": "427"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12531/Sakamichi_no_Apollon",
+        "type": "TV",
+        "eps": "12",
+        "members": "253,411",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.38",
+        "popularity_rank": "458"
+    },
+    {
+        "url": "https://myanimelist.net/anime/523/Tonari_no_Totoro",
+        "type": "Movie",
+        "eps": "1",
+        "members": "599,850",
+        "ystart": "1988",
+        "yend": "1988",
+        "score": "8.37",
+        "popularity_rank": "122"
+    },
+    {
+        "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+        "type": "Movie",
+        "eps": "1",
+        "members": "308,801",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.37",
+        "popularity_rank": "350"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25781/Shingeki_no_Kyojin__Kuinaki_Sentaku",
+        "type": "OVA",
+        "eps": "2",
+        "members": "252,581",
+        "ystart": "2014",
+        "yend": "2015",
+        "score": "8.37",
+        "popularity_rank": "460"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5081/Bakemonogatari",
+        "type": "TV",
+        "eps": "15",
+        "members": "913,761",
+        "ystart": "2009",
+        "yend": "2010",
+        "score": "8.36",
+        "popularity_rank": "56"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34240/Shelter",
+        "type": "Music",
+        "eps": "1",
+        "members": "235,547",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.36",
+        "popularity_rank": "512"
+    },
+    {
+        "url": "https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World",
+        "type": "TV",
+        "eps": "13",
+        "members": "196,843",
+        "ystart": "2003",
+        "yend": "2003",
+        "score": "8.36",
+        "popularity_rank": "614"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5040/One_Outs",
+        "type": "TV",
+        "eps": "25",
+        "members": "160,845",
+        "ystart": "2008",
+        "yend": "2009",
+        "score": "8.36",
+        "popularity_rank": "769"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28701/Fate_stay_night__Unlimited_Blade_Works_2nd_Season",
+        "type": "TV",
+        "eps": "13",
+        "members": "503,693",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.35",
+        "popularity_rank": "170"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16894/Kuroko_no_Basket_2nd_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "498,032",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.35",
+        "popularity_rank": "174"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
+        "type": "TV",
+        "eps": "13",
+        "members": "369,013",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.35",
+        "popularity_rank": "290"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1698/Nodame_Cantabile",
+        "type": "TV",
+        "eps": "23",
+        "members": "241,640",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.35",
+        "popularity_rank": "493"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso",
+        "type": "TV",
+        "eps": "24",
+        "members": "492,582",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.34",
+        "popularity_rank": "181"
+    },
+    {
+        "url": "https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa",
+        "type": "Movie",
+        "eps": "1",
+        "members": "286,884",
+        "ystart": "1986",
+        "yend": "1986",
+        "score": "8.34",
+        "popularity_rank": "384"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9617/K-On_Movie",
+        "type": "Movie",
+        "eps": "1",
+        "members": "204,109",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.34",
+        "popularity_rank": "596"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37095/Violet_Evergarden__Kitto_Ai_wo_Shiru_Hi_ga_Kuru_no_Darou",
+        "type": "Special",
+        "eps": "1",
+        "members": "132,986",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.34",
+        "popularity_rank": "950"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2",
+        "type": "TV",
+        "eps": "10",
+        "members": "781,673",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.33",
+        "popularity_rank": "71"
+    },
+    {
+        "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+        "type": "TV",
+        "eps": "25",
+        "members": "544,762",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.33",
+        "popularity_rank": "146"
+    },
+    {
+        "url": "https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan",
+        "type": "TV",
+        "eps": "94",
+        "members": "349,795",
+        "ystart": "1996",
+        "yend": "1998",
+        "score": "8.33",
+        "popularity_rank": "310"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36649/Banana_Fish",
+        "type": "TV",
+        "eps": "24",
+        "members": "241,321",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.33",
+        "popularity_rank": "494"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2418/Stranger__Mukou_Hadan",
+        "type": "Movie",
+        "eps": "1",
+        "members": "233,491",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.33",
+        "popularity_rank": "521"
+    },
+    {
+        "url": "https://myanimelist.net/anime/57/Beck",
+        "type": "TV",
+        "eps": "26",
+        "members": "230,465",
+        "ystart": "2004",
+        "yend": "2005",
+        "score": "8.32",
+        "popularity_rank": "529"
+    },
+    {
+        "url": "https://myanimelist.net/anime/329/Planetes",
+        "type": "TV",
+        "eps": "26",
+        "members": "177,828",
+        "ystart": "2003",
+        "yend": "2004",
+        "score": "8.32",
+        "popularity_rank": "693"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4224/Toradora",
+        "type": "TV",
+        "eps": "25",
+        "members": "1,276,047",
+        "ystart": "2008",
+        "yend": "2009",
+        "score": "8.31",
+        "popularity_rank": "15"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu",
+        "type": "TV",
+        "eps": "25",
+        "members": "1,177,143",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.31",
+        "popularity_rank": "22"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+        "type": "TV",
+        "eps": "26",
+        "members": "941,823",
+        "ystart": "1995",
+        "yend": "1996",
+        "score": "8.31",
+        "popularity_rank": "54"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara",
+        "type": "TV",
+        "eps": "13",
+        "members": "646,341",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.31",
+        "popularity_rank": "103"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25537/Fate_stay_night_Movie__Heavens_Feel_-_I_Presage_Flower",
+        "type": "Movie",
+        "eps": "1",
+        "members": "207,981",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.31",
+        "popularity_rank": "580"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2966/Ookami_to_Koushinryou",
+        "type": "TV",
+        "eps": "13",
+        "members": "578,704",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.30",
+        "popularity_rank": "132"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou",
+        "type": "TV",
+        "eps": "12",
+        "members": "515,403",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.30",
+        "popularity_rank": "164"
+    },
+    {
+        "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
+        "type": "Movie",
+        "eps": "1",
+        "members": "425,690",
+        "ystart": "1995",
+        "yend": "1995",
+        "score": "8.30",
+        "popularity_rank": "233"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6675/Redline",
+        "type": "Movie",
+        "eps": "1",
+        "members": "226,825",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.30",
+        "popularity_rank": "535"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2",
+        "type": "TV",
+        "eps": "13",
+        "members": "142,385",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.30",
+        "popularity_rank": "875"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku",
+        "type": "TV",
+        "eps": "13",
+        "members": "556,109",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.29",
+        "popularity_rank": "141"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34798/Yuru_Camp\u25b3",
+        "type": "TV",
+        "eps": "12",
+        "members": "240,071",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.29",
+        "popularity_rank": "500"
+    },
+    {
+        "url": "https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor",
+        "type": "TV",
+        "eps": "26",
+        "members": "210,510",
+        "ystart": "2007",
+        "yend": "2008",
+        "score": "8.29",
+        "popularity_rank": "573"
+    },
+    {
+        "url": "https://myanimelist.net/anime/185/Initial_D_First_Stage",
+        "type": "TV",
+        "eps": "26",
+        "members": "186,022",
+        "ystart": "1998",
+        "yend": "1998",
+        "score": "8.29",
+        "popularity_rank": "653"
+    },
+    {
+        "url": "https://myanimelist.net/anime/759/Tokyo_Godfathers",
+        "type": "Movie",
+        "eps": "1",
+        "members": "171,135",
+        "ystart": "2003",
+        "yend": "2003",
+        "score": "8.29",
+        "popularity_rank": "721"
+    },
+    {
+        "url": "https://myanimelist.net/anime/19815/No_Game_No_Life",
+        "type": "TV",
+        "eps": "12",
+        "members": "1,459,578",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.28",
+        "popularity_rank": "9"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero",
+        "type": "Special",
+        "eps": "1",
+        "members": "151,448",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.28",
+        "popularity_rank": "814"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto",
+        "type": "TV",
+        "eps": "13",
+        "members": "858,029",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.27",
+        "popularity_rank": "60"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35788/Shokugeki_no_Souma__San_no_Sara",
+        "type": "TV",
+        "eps": "12",
+        "members": "509,173",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.27",
+        "popularity_rank": "167"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9863/SKET_Dance",
+        "type": "TV",
+        "eps": "77",
+        "members": "166,407",
+        "ystart": "2011",
+        "yend": "2012",
+        "score": "8.27",
+        "popularity_rank": "742"
+    },
+    {
+        "url": "https://myanimelist.net/anime/39533/Given",
+        "type": "TV",
+        "eps": "11",
+        "members": "135,919",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.27",
+        "popularity_rank": "929"
+    },
+    {
+        "url": "https://myanimelist.net/anime/7674/Bakuman",
+        "type": "TV",
+        "eps": "25",
+        "members": "437,870",
+        "ystart": "2010",
+        "yend": "2011",
+        "score": "8.26",
+        "popularity_rank": "219"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1889/Higurashi_no_Naku_Koro_ni_Kai",
+        "type": "TV",
+        "eps": "24",
+        "members": "339,565",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.26",
+        "popularity_rank": "317"
+    },
+    {
+        "url": "https://myanimelist.net/anime/512/Majo_no_Takkyuubin",
+        "type": "Movie",
+        "eps": "1",
+        "members": "312,803",
+        "ystart": "1989",
+        "yend": "1989",
+        "score": "8.26",
+        "popularity_rank": "346"
+    },
+    {
+        "url": "https://myanimelist.net/anime/10800/Chihayafuru",
+        "type": "TV",
+        "eps": "25",
+        "members": "303,694",
+        "ystart": "2011",
+        "yend": "2012",
+        "score": "8.26",
+        "popularity_rank": "353"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "260,094",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.26",
+        "popularity_rank": "441"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35466/ReLIFE__Kanketsu-hen",
+        "type": "Special",
+        "eps": "4",
+        "members": "190,448",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.26",
+        "popularity_rank": "640"
+    },
+    {
+        "url": "https://myanimelist.net/anime/585/Mimi_wo_Sumaseba",
+        "type": "Movie",
+        "eps": "1",
+        "members": "184,975",
+        "ystart": "1995",
+        "yend": "1995",
+        "score": "8.26",
+        "popularity_rank": "658"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+        "type": "TV",
+        "eps": "13",
+        "members": "1,465,688",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.25",
+        "popularity_rank": "8"
+    },
+    {
+        "url": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works",
+        "type": "TV",
+        "eps": "12",
+        "members": "619,133",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.25",
+        "popularity_rank": "112"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6/Trigun",
+        "type": "TV",
+        "eps": "26",
+        "members": "495,362",
+        "ystart": "1998",
+        "yend": "1998",
+        "score": "8.25",
+        "popularity_rank": "177"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36296/Hinamatsuri",
+        "type": "TV",
+        "eps": "12",
+        "members": "289,935",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.25",
+        "popularity_rank": "378"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6811/InuYasha_TV__Kanketsu-hen",
+        "type": "TV",
+        "eps": "26",
+        "members": "181,856",
+        "ystart": "2009",
+        "yend": "2010",
+        "score": "8.25",
+        "popularity_rank": "668"
+    },
+    {
+        "url": "https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo",
+        "type": "TV",
+        "eps": "24",
+        "members": "777,431",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.24",
+        "popularity_rank": "72"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo",
+        "type": "Movie",
+        "eps": "1",
+        "members": "550,201",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.24",
+        "popularity_rank": "144"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34636/Ballroom_e_Youkoso",
+        "type": "TV",
+        "eps": "24",
+        "members": "186,900",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.24",
+        "popularity_rank": "648"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12115/Berserk__Ougon_Jidai-hen_III_-_Kourin",
+        "type": "Movie",
+        "eps": "1",
+        "members": "138,755",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.24",
+        "popularity_rank": "908"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2",
+        "type": "TV",
+        "eps": "12",
+        "members": "131,960",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.24",
+        "popularity_rank": "959"
+    },
+    {
+        "url": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club",
+        "type": "TV",
+        "eps": "26",
+        "members": "701,665",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.23",
+        "popularity_rank": "89"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season",
+        "type": "TV",
+        "eps": "12",
+        "members": "366,074",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.23",
+        "popularity_rank": "292"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34822/Tsuki_ga_Kirei",
+        "type": "TV",
+        "eps": "12",
+        "members": "288,834",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.23",
+        "popularity_rank": "379"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28675/Kyoukai_no_Kanata_Movie_2__Ill_Be_Here_-_Mirai-hen",
+        "type": "Movie",
+        "eps": "1",
+        "members": "159,434",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.23",
+        "popularity_rank": "774"
+    },
+    {
+        "url": "https://myanimelist.net/anime/39792/Eizouken_ni_wa_Te_wo_Dasu_na",
+        "type": "TV",
+        "eps": "12",
+        "members": "152,578",
+        "ystart": "2020",
+        "yend": "2020",
+        "score": "8.23",
+        "popularity_rank": "809"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6746/Durarara",
+        "type": "TV",
+        "eps": "24",
+        "members": "976,574",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.22",
+        "popularity_rank": "48"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket",
+        "type": "TV",
+        "eps": "25",
+        "members": "680,858",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.22",
+        "popularity_rank": "96"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage",
+        "type": "TV",
+        "eps": "12",
+        "members": "335,187",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.22",
+        "popularity_rank": "324"
+    },
+    {
+        "url": "https://myanimelist.net/anime/39195/Beastars",
+        "type": "TV",
+        "eps": "12",
+        "members": "277,650",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.22",
+        "popularity_rank": "402"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12859/One_Piece_Film__Z",
+        "type": "Movie",
+        "eps": "1",
+        "members": "155,443",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.22",
+        "popularity_rank": "793"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4155/One_Piece_Film__Strong_World",
+        "type": "Movie",
+        "eps": "1",
+        "members": "152,666",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.22",
+        "popularity_rank": "805"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11977/Mahou_Shoujo_Madoka\u2605Magica_Movie_1__Hajimari_no_Monogatari",
+        "type": "Movie",
+        "eps": "1",
+        "members": "146,297",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.22",
+        "popularity_rank": "848"
+    },
+    {
+        "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+        "type": "TV",
+        "eps": "51",
+        "members": "1,019,868",
+        "ystart": "2003",
+        "yend": "2004",
+        "score": "8.21",
+        "popularity_rank": "41"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+        "type": "TV",
+        "eps": "25",
+        "members": "619,637",
+        "ystart": "2019",
+        "yend": "2020",
+        "score": "8.21",
+        "popularity_rank": "111"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1604/Katekyo_Hitman_Reborn",
+        "type": "TV",
+        "eps": "203",
+        "members": "418,734",
+        "ystart": "2006",
+        "yend": "2010",
+        "score": "8.21",
+        "popularity_rank": "238"
+    },
+    {
+        "url": "https://myanimelist.net/anime/39198/Kanata_no_Astra",
+        "type": "TV",
+        "eps": "12",
+        "members": "142,036",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.21",
+        "popularity_rank": "880"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6547/Angel_Beats",
+        "type": "TV",
+        "eps": "13",
+        "members": "1,365,858",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.20",
+        "popularity_rank": "11"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28223/Death_Parade",
+        "type": "TV",
+        "eps": "12",
+        "members": "983,306",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.20",
+        "popularity_rank": "46"
+    },
+    {
+        "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+        "type": "TV",
+        "eps": "291",
+        "members": "753,433",
+        "ystart": "1989",
+        "yend": "1996",
+        "score": "8.20",
+        "popularity_rank": "78"
+    },
+    {
+        "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV",
+        "type": "TV",
+        "eps": "26",
+        "members": "720,668",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.20",
+        "popularity_rank": "85"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36949/Shokugeki_no_Souma__San_no_Sara_-_Tootsuki_Ressha-hen",
+        "type": "TV",
+        "eps": "12",
+        "members": "367,006",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.20",
+        "popularity_rank": "291"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37171/Asobi_Asobase",
+        "type": "TV",
+        "eps": "12",
+        "members": "212,411",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.20",
+        "popularity_rank": "566"
+    },
+    {
+        "url": "https://myanimelist.net/anime/11597/Nisemonogatari",
+        "type": "TV",
+        "eps": "11",
+        "members": "496,990",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.19",
+        "popularity_rank": "175"
+    },
+    {
+        "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus",
+        "type": "TV",
+        "eps": "10",
+        "members": "250,998",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.19",
+        "popularity_rank": "466"
+    },
+    {
+        "url": "https://myanimelist.net/anime/235/Detective_Conan",
+        "type": "TV",
+        "eps": "?",
+        "members": "216,521",
+        "ystart": "Jan",
+        "yend": "1996",
+        "score": "8.19",
+        "popularity_rank": "557"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou",
+        "type": "TV",
+        "eps": "12",
+        "members": "193,061",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.19",
+        "popularity_rank": "624"
+    },
+    {
+        "url": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
+        "type": "TV",
+        "eps": "39",
+        "members": "138,859",
+        "ystart": "1997",
+        "yend": "1997",
+        "score": "8.19",
+        "popularity_rank": "907"
+    },
+    {
+        "url": "https://myanimelist.net/anime/20899/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders",
+        "type": "TV",
+        "eps": "24",
+        "members": "510,277",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.18",
+        "popularity_rank": "166"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37520/Dororo",
+        "type": "TV",
+        "eps": "24",
+        "members": "496,101",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.18",
+        "popularity_rank": "176"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25681/Kamisama_Hajimemashita\u25ce",
+        "type": "TV",
+        "eps": "12",
+        "members": "205,957",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.18",
+        "popularity_rank": "589"
+    },
+    {
+        "url": "https://myanimelist.net/anime/239/Gankutsuou",
+        "type": "TV",
+        "eps": "24",
+        "members": "173,901",
+        "ystart": "2004",
+        "yend": "2005",
+        "score": "8.18",
+        "popularity_rank": "709"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
+        "type": "TV",
+        "eps": "26",
+        "members": "163,888",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.18",
+        "popularity_rank": "752"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23317/Kuroshitsuji__Book_of_Murder",
+        "type": "OVA",
+        "eps": "2",
+        "members": "156,424",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.18",
+        "popularity_rank": "790"
+    },
+    {
+        "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+        "type": "TV",
+        "eps": "70",
+        "members": "300,622",
+        "ystart": "1998",
+        "yend": "2000",
+        "score": "8.17",
+        "popularity_rank": "359"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4722/Skip_Beat",
+        "type": "TV",
+        "eps": "25",
+        "members": "200,820",
+        "ystart": "2008",
+        "yend": "2009",
+        "score": "8.17",
+        "popularity_rank": "602"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season",
+        "type": "TV",
+        "eps": "12",
+        "members": "200,086",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.17",
+        "popularity_rank": "604"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32902/Mahoutsukai_no_Yome__Hoshi_Matsu_Hito",
+        "type": "OVA",
+        "eps": "3",
+        "members": "199,700",
+        "ystart": "2016",
+        "yend": "2017",
+        "score": "8.17",
+        "popularity_rank": "607"
+    },
+    {
+        "url": "https://myanimelist.net/anime/3901/Baccano_Specials",
+        "type": "Special",
+        "eps": "3",
+        "members": "141,652",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.17",
+        "popularity_rank": "885"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo",
+        "type": "TV",
+        "eps": "10",
+        "members": "1,017,264",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.16",
+        "popularity_rank": "42"
+    },
+    {
+        "url": "https://myanimelist.net/anime/47/Akira",
+        "type": "Movie",
+        "eps": "1",
+        "members": "462,718",
+        "ystart": "1988",
+        "yend": "1988",
+        "score": "8.16",
+        "popularity_rank": "198"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28025/Tsukimonogatari",
+        "type": "TV",
+        "eps": "4",
+        "members": "269,491",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.16",
+        "popularity_rank": "416"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00",
+        "type": "TV",
+        "eps": "25",
+        "members": "171,413",
+        "ystart": "2007",
+        "yend": "2008",
+        "score": "8.16",
+        "popularity_rank": "720"
+    },
+    {
+        "url": "https://myanimelist.net/anime/3702/Detroit_Metal_City",
+        "type": "OVA",
+        "eps": "12",
+        "members": "164,442",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.16",
+        "popularity_rank": "748"
+    },
+    {
+        "url": "https://myanimelist.net/anime/21557/Omoide_no_Marnie",
+        "type": "Movie",
+        "eps": "1",
+        "members": "152,738",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.16",
+        "popularity_rank": "804"
+    },
+    {
+        "url": "https://myanimelist.net/anime/38668/Dorohedoro",
+        "type": "TV",
+        "eps": "12",
+        "members": "143,714",
+        "ystart": "2020",
+        "yend": "2020",
+        "score": "8.16",
+        "popularity_rank": "860"
+    },
+    {
+        "url": "https://myanimelist.net/anime/36946/Dragon_Ball_Super_Movie__Broly",
+        "type": "Movie",
+        "eps": "1",
+        "members": "143,119",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.16",
+        "popularity_rank": "867"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+        "type": "TV",
+        "eps": "500",
+        "members": "1,207,617",
+        "ystart": "2007",
+        "yend": "2017",
+        "score": "8.15",
+        "popularity_rank": "19"
+    },
+    {
+        "url": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu",
+        "type": "TV",
+        "eps": "22",
+        "members": "970,173",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.15",
+        "popularity_rank": "49"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12189/Hyouka",
+        "type": "TV",
+        "eps": "22",
+        "members": "769,959",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.15",
+        "popularity_rank": "75"
+    },
+    {
+        "url": "https://myanimelist.net/anime/7791/K-On",
+        "type": "TV",
+        "eps": "26",
+        "members": "433,780",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.15",
+        "popularity_rank": "222"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16067/Nagi_no_Asu_kara",
+        "type": "TV",
+        "eps": "26",
+        "members": "412,454",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.15",
+        "popularity_rank": "246"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi",
+        "type": "TV",
+        "eps": "50",
+        "members": "218,748",
+        "ystart": "2006",
+        "yend": "2007",
+        "score": "8.15",
+        "popularity_rank": "553"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16662/Kaze_Tachinu",
+        "type": "Movie",
+        "eps": "1",
+        "members": "172,468",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.15",
+        "popularity_rank": "717"
+    },
+    {
+        "url": "https://myanimelist.net/anime/8129/Kuragehime",
+        "type": "TV",
+        "eps": "11",
+        "members": "166,609",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.15",
+        "popularity_rank": "738"
+    },
+    {
+        "url": "https://myanimelist.net/anime/18689/Diamond_no_Ace",
+        "type": "TV",
+        "eps": "75",
+        "members": "156,751",
+        "ystart": "2013",
+        "yend": "2015",
+        "score": "8.15",
+        "popularity_rank": "785"
+    },
+    {
+        "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+        "type": "TV",
+        "eps": "24",
+        "members": "1,088,676",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.14",
+        "popularity_rank": "29"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23283/Zankyou_no_Terror",
+        "type": "TV",
+        "eps": "11",
+        "members": "706,372",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.14",
+        "popularity_rank": "88"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+        "type": "TV",
+        "eps": "25",
+        "members": "693,122",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.14",
+        "popularity_rank": "91"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16782/Kotonoha_no_Niwa",
+        "type": "Movie",
+        "eps": "1",
+        "members": "474,494",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.14",
+        "popularity_rank": "193"
+    },
+    {
+        "url": "https://myanimelist.net/anime/27821/Fate_stay_night__Unlimited_Blade_Works_Prologue",
+        "type": "Special",
+        "eps": "1",
+        "members": "210,368",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.14",
+        "popularity_rank": "575"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35062/Mahoutsukai_no_Yome",
+        "type": "TV",
+        "eps": "24",
+        "members": "531,575",
+        "ystart": "2017",
+        "yend": "2018",
+        "score": "8.13",
+        "popularity_rank": "153"
+    },
+    {
+        "url": "https://myanimelist.net/anime/8425/Gosick",
+        "type": "TV",
+        "eps": "24",
+        "members": "389,548",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.13",
+        "popularity_rank": "265"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5681/Summer_Wars",
+        "type": "Movie",
+        "eps": "1",
+        "members": "385,239",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.13",
+        "popularity_rank": "270"
+    },
+    {
+        "url": "https://myanimelist.net/anime/27833/Durararax2_Ketsu",
+        "type": "TV",
+        "eps": "12",
+        "members": "259,617",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.13",
+        "popularity_rank": "442"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16706/Kami_nomi_zo_Shiru_Sekai__Megami-hen",
+        "type": "TV",
+        "eps": "12",
+        "members": "246,131",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.13",
+        "popularity_rank": "480"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16918/Gin_no_Saji",
+        "type": "TV",
+        "eps": "11",
+        "members": "207,480",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.13",
+        "popularity_rank": "581"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33161/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku_OVA",
+        "type": "OVA",
+        "eps": "1",
+        "members": "136,939",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.13",
+        "popularity_rank": "921"
+    },
+    {
+        "url": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising",
+        "type": "Movie",
+        "eps": "1",
+        "members": "126,276",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.13",
+        "popularity_rank": "991"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31658/Kuroko_no_Basket_Movie_4__Last_Game",
+        "type": "Movie",
+        "eps": "1",
+        "members": "135,393",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.12",
+        "popularity_rank": "931"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2167/Clannad",
+        "type": "TV",
+        "eps": "23",
+        "members": "959,268",
+        "ystart": "2007",
+        "yend": "2008",
+        "score": "8.11",
+        "popularity_rank": "51"
+    },
+    {
+        "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+        "type": "TV",
+        "eps": "25",
+        "members": "662,919",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.11",
+        "popularity_rank": "100"
+    },
+    {
+        "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+        "type": "TV",
+        "eps": "50",
+        "members": "358,107",
+        "ystart": "2005",
+        "yend": "2006",
+        "score": "8.11",
+        "popularity_rank": "303"
+    },
+    {
+        "url": "https://myanimelist.net/anime/3167/Eve_no_Jikan",
+        "type": "ONA",
+        "eps": "6",
+        "members": "143,386",
+        "ystart": "2008",
+        "yend": "2009",
+        "score": "8.11",
+        "popularity_rank": "863"
+    },
+    {
+        "url": "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama",
+        "type": "TV",
+        "eps": "26",
+        "members": "723,887",
+        "ystart": "2010",
+        "yend": "2010",
+        "score": "8.10",
+        "popularity_rank": "84"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken",
+        "type": "TV",
+        "eps": "24",
+        "members": "541,866",
+        "ystart": "2018",
+        "yend": "2019",
+        "score": "8.10",
+        "popularity_rank": "150"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+        "type": "Movie",
+        "eps": "1",
+        "members": "321,205",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.10",
+        "popularity_rank": "338"
+    },
+    {
+        "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu",
+        "type": "TV",
+        "eps": "12",
+        "members": "239,473",
+        "ystart": "2003",
+        "yend": "2003",
+        "score": "8.10",
+        "popularity_rank": "504"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34626/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2__Kono_Subarashii_Geijutsu_ni_Shukufuku_wo",
+        "type": "OVA",
+        "eps": "1",
+        "members": "183,445",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.10",
+        "popularity_rank": "662"
+    },
+    {
+        "url": "https://myanimelist.net/anime/3783/Kara_no_Kyoukai_3__Tsuukaku_Zanryuu",
+        "type": "Movie",
+        "eps": "1",
+        "members": "165,756",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.10",
+        "popularity_rank": "743"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona",
+        "type": "TV",
+        "eps": "24",
+        "members": "494,889",
+        "ystart": "2014",
+        "yend": "2015",
+        "score": "8.09",
+        "popularity_rank": "178"
+    },
+    {
+        "url": "https://myanimelist.net/anime/2034/Lovely\u2605Complex",
+        "type": "TV",
+        "eps": "24",
+        "members": "383,801",
+        "ystart": "2007",
+        "yend": "2007",
+        "score": "8.09",
+        "popularity_rank": "271"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6211/Tokyo_Magnitude_80",
+        "type": "TV",
+        "eps": "11",
+        "members": "206,420",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.09",
+        "popularity_rank": "586"
+    },
+    {
+        "url": "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru",
+        "type": "TV",
+        "eps": "13",
+        "members": "776,669",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.08",
+        "popularity_rank": "73"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon",
+        "type": "TV",
+        "eps": "13",
+        "members": "619,021",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.08",
+        "popularity_rank": "113"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1482/DGray-man",
+        "type": "TV",
+        "eps": "103",
+        "members": "522,647",
+        "ystart": "2006",
+        "yend": "2008",
+        "score": "8.08",
+        "popularity_rank": "159"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16049/Toaru_Kagaku_no_Railgun_S",
+        "type": "TV",
+        "eps": "24",
+        "members": "250,968",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.08",
+        "popularity_rank": "467"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover",
+        "type": "TV",
+        "eps": "24",
+        "members": "196,362",
+        "ystart": "2005",
+        "yend": "2005",
+        "score": "8.08",
+        "popularity_rank": "615"
+    },
+    {
+        "url": "https://myanimelist.net/anime/12477/Sakasama_no_Patema",
+        "type": "Movie",
+        "eps": "1",
+        "members": "193,807",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.08",
+        "popularity_rank": "621"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4901/Black_Lagoon__Robertas_Blood_Trail",
+        "type": "OVA",
+        "eps": "5",
+        "members": "182,943",
+        "ystart": "2010",
+        "yend": "2011",
+        "score": "8.08",
+        "popularity_rank": "665"
+    },
+    {
+        "url": "https://myanimelist.net/anime/40716/Kakushigoto_TV",
+        "type": "TV",
+        "eps": "12",
+        "members": "125,895",
+        "ystart": "2020",
+        "yend": "2020",
+        "score": "8.08",
+        "popularity_rank": "995"
+    },
+    {
+        "url": "https://myanimelist.net/anime/889/Black_Lagoon",
+        "type": "TV",
+        "eps": "12",
+        "members": "601,539",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.07",
+        "popularity_rank": "120"
+    },
+    {
+        "url": "https://myanimelist.net/anime/30015/ReLIFE",
+        "type": "TV",
+        "eps": "13",
+        "members": "598,305",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.07",
+        "popularity_rank": "123"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1943/Paprika",
+        "type": "Movie",
+        "eps": "1",
+        "members": "314,889",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.07",
+        "popularity_rank": "342"
+    },
+    {
+        "url": "https://myanimelist.net/anime/25879/Working",
+        "type": "TV",
+        "eps": "13",
+        "members": "172,607",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.07",
+        "popularity_rank": "716"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4789/ef__A_Tale_of_Melodies",
+        "type": "TV",
+        "eps": "12",
+        "members": "139,481",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.07",
+        "popularity_rank": "901"
+    },
+    {
+        "url": "https://myanimelist.net/anime/20507/Noragami",
+        "type": "TV",
+        "eps": "12",
+        "members": "1,270,201",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.05",
+        "popularity_rank": "16"
+    },
+    {
+        "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke",
+        "type": "TV",
+        "eps": "25",
+        "members": "558,565",
+        "ystart": "2009",
+        "yend": "2010",
+        "score": "8.05",
+        "popularity_rank": "140"
+    },
+    {
+        "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
+        "type": "TV",
+        "eps": "12",
+        "members": "490,449",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.05",
+        "popularity_rank": "182"
+    },
+    {
+        "url": "https://myanimelist.net/anime/14713/Kamisama_Hajimemashita",
+        "type": "TV",
+        "eps": "13",
+        "members": "365,749",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.05",
+        "popularity_rank": "293"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23199/Durararax2_Shou",
+        "type": "TV",
+        "eps": "12",
+        "members": "346,174",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.05",
+        "popularity_rank": "312"
+    },
+    {
+        "url": "https://myanimelist.net/anime/16001/Kokoro_Connect__Michi_Random",
+        "type": "Special",
+        "eps": "4",
+        "members": "185,766",
+        "ystart": "2012",
+        "yend": "2012",
+        "score": "8.05",
+        "popularity_rank": "654"
+    },
+    {
+        "url": "https://myanimelist.net/anime/846/School_Rumble_Ni_Gakki",
+        "type": "TV",
+        "eps": "26",
+        "members": "126,445",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.05",
+        "popularity_rank": "989"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31174/Osomatsu-san",
+        "type": "TV",
+        "eps": "25",
+        "members": "125,798",
+        "ystart": "2015",
+        "yend": "2016",
+        "score": "8.05",
+        "popularity_rank": "996"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai",
+        "type": "TV",
+        "eps": "24",
+        "members": "1,106,646",
+        "ystart": "2014",
+        "yend": "2015",
+        "score": "8.04",
+        "popularity_rank": "27"
+    },
+    {
+        "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+        "type": "TV",
+        "eps": "153",
+        "members": "622,605",
+        "ystart": "1986",
+        "yend": "1989",
+        "score": "8.04",
+        "popularity_rank": "110"
+    },
+    {
+        "url": "https://myanimelist.net/anime/23289/Gekkan_Shoujo_Nozaki-kun",
+        "type": "TV",
+        "eps": "12",
+        "members": "573,397",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.04",
+        "popularity_rank": "133"
+    },
+    {
+        "url": "https://myanimelist.net/anime/9656/Kimi_ni_Todoke_2nd_Season",
+        "type": "TV",
+        "eps": "12",
+        "members": "291,572",
+        "ystart": "2011",
+        "yend": "2011",
+        "score": "8.04",
+        "popularity_rank": "375"
+    },
+    {
+        "url": "https://myanimelist.net/anime/27831/Durararax2_Ten",
+        "type": "TV",
+        "eps": "12",
+        "members": "272,956",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.04",
+        "popularity_rank": "414"
+    },
+    {
+        "url": "https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom",
+        "type": "TV",
+        "eps": "26",
+        "members": "247,899",
+        "ystart": "2009",
+        "yend": "2009",
+        "score": "8.04",
+        "popularity_rank": "475"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31173/Akagami_no_Shirayuki-hime_2nd_Season",
+        "type": "TV",
+        "eps": "12",
+        "members": "206,203",
+        "ystart": "2016",
+        "yend": "2016",
+        "score": "8.04",
+        "popularity_rank": "587"
+    },
+    {
+        "url": "https://myanimelist.net/anime/28725/Kokoro_ga_Sakebitagatterunda",
+        "type": "Movie",
+        "eps": "1",
+        "members": "198,564",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.04",
+        "popularity_rank": "610"
+    },
+    {
+        "url": "https://myanimelist.net/anime/17265/Log_Horizon",
+        "type": "TV",
+        "eps": "25",
+        "members": "760,589",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.03",
+        "popularity_rank": "76"
+    },
+    {
+        "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+        "type": "TV",
+        "eps": "25",
+        "members": "662,949",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.03",
+        "popularity_rank": "99"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu",
+        "type": "TV",
+        "eps": "24",
+        "members": "571,752",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.03",
+        "popularity_rank": "134"
+    },
+    {
+        "url": "https://myanimelist.net/anime/227/FLCL",
+        "type": "OVA",
+        "eps": "6",
+        "members": "534,600",
+        "ystart": "2000",
+        "yend": "2001",
+        "score": "8.03",
+        "popularity_rank": "152"
+    },
+    {
+        "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+        "type": "TV",
+        "eps": "24",
+        "members": "439,110",
+        "ystart": "2012",
+        "yend": "2013",
+        "score": "8.03",
+        "popularity_rank": "218"
+    },
+    {
+        "url": "https://myanimelist.net/anime/33926/Quanzhi_Gaoshou",
+        "type": "ONA",
+        "eps": "12",
+        "members": "236,354",
+        "ystart": "2017",
+        "yend": "2017",
+        "score": "8.03",
+        "popularity_rank": "509"
+    },
+    {
+        "url": "https://myanimelist.net/anime/4059/Clannad__Mou_Hitotsu_no_Sekai_Tomoyo-hen",
+        "type": "Special",
+        "eps": "1",
+        "members": "234,293",
+        "ystart": "2008",
+        "yend": "2008",
+        "score": "8.03",
+        "popularity_rank": "515"
+    },
+    {
+        "url": "https://myanimelist.net/anime/861/xxxHOLiC",
+        "type": "TV",
+        "eps": "24",
+        "members": "227,930",
+        "ystart": "2006",
+        "yend": "2006",
+        "score": "8.03",
+        "popularity_rank": "533"
+    },
+    {
+        "url": "https://myanimelist.net/anime/1530/Kanon_2006",
+        "type": "TV",
+        "eps": "24",
+        "members": "218,751",
+        "ystart": "2006",
+        "yend": "2007",
+        "score": "8.03",
+        "popularity_rank": "552"
+    },
+    {
+        "url": "https://myanimelist.net/anime/21647/Tamako_Love_Story",
+        "type": "Movie",
+        "eps": "1",
+        "members": "198,422",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.03",
+        "popularity_rank": "611"
+    },
+    {
+        "url": "https://myanimelist.net/anime/34437/Code_Geass__Fukkatsu_no_Lelouch",
+        "type": "Movie",
+        "eps": "1",
+        "members": "174,366",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.03",
+        "popularity_rank": "703"
+    },
+    {
+        "url": "https://myanimelist.net/anime/18179/Yowamushi_Pedal",
+        "type": "TV",
+        "eps": "38",
+        "members": "161,997",
+        "ystart": "2013",
+        "yend": "2014",
+        "score": "8.03",
+        "popularity_rank": "762"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37675/Overlord_III",
+        "type": "TV",
+        "eps": "13",
+        "members": "425,198",
+        "ystart": "2018",
+        "yend": "2018",
+        "score": "8.02",
+        "popularity_rank": "235"
+    },
+    {
+        "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
+        "type": "TV",
+        "eps": "13",
+        "members": "404,162",
+        "ystart": "1998",
+        "yend": "1998",
+        "score": "8.02",
+        "popularity_rank": "253"
+    },
+    {
+        "url": "https://myanimelist.net/anime/21855/Hanamonogatari",
+        "type": "TV",
+        "eps": "5",
+        "members": "277,719",
+        "ystart": "2014",
+        "yend": "2014",
+        "score": "8.02",
+        "popularity_rank": "401"
+    },
+    {
+        "url": "https://myanimelist.net/anime/268/Golden_Boy",
+        "type": "OVA",
+        "eps": "6",
+        "members": "214,797",
+        "ystart": "1995",
+        "yend": "1996",
+        "score": "8.02",
+        "popularity_rank": "561"
+    },
+    {
+        "url": "https://myanimelist.net/anime/15039/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Movie",
+        "type": "Movie",
+        "eps": "1",
+        "members": "186,469",
+        "ystart": "2013",
+        "yend": "2013",
+        "score": "8.02",
+        "popularity_rank": "650"
+    },
+    {
+        "url": "https://myanimelist.net/anime/37435/Carole___Tuesday",
+        "type": "TV",
+        "eps": "24",
+        "members": "180,182",
+        "ystart": "2019",
+        "yend": "2019",
+        "score": "8.02",
+        "popularity_rank": "682"
+    },
+    {
+        "url": "https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans",
+        "type": "TV",
+        "eps": "25",
+        "members": "142,983",
+        "ystart": "2015",
+        "yend": "2016",
+        "score": "8.02",
+        "popularity_rank": "870"
+    },
+    {
+        "url": "https://myanimelist.net/anime/29803/Overlord",
+        "type": "TV",
+        "eps": "13",
+        "members": "852,575",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.01",
+        "popularity_rank": "62"
+    },
+    {
+        "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium",
+        "type": "TV",
+        "eps": "13",
+        "members": "285,098",
+        "ystart": "2015",
+        "yend": "2015",
+        "score": "8.01",
+        "popularity_rank": "387"
+    }
+]
